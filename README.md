@@ -1,4 +1,4 @@
-# DNA
+# DNA Sequencer
 Dna sequencer, CodeCademy project
 
 For a DNA strand to be a protein, it has to satisfy these 3 conditions:
